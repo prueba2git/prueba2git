@@ -14,7 +14,7 @@ public class Prueba2git {
       try
       {
          System.out.print("Sumando 1 : ");
-         System.out.printf("hola bety");
+         System.out.printf("hola bety222");
          int s1 = Integer.parseInt(br.readLine());
          System.out.print("Sumando 2 : ");
          int s2 = Integer.parseInt(br.readLine());
@@ -26,9 +26,5 @@ public class Prueba2git {
       {
       }
     
-   }
-    
-    
-    
-    
+   } 
 }
