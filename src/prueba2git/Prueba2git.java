@@ -16,6 +16,8 @@ public class Prueba2git {
          System.out.print("Sumando 1 : ");
          System.out.printf("hola bety");
          System.out.print("resta : ");
+         System.out.print("divicion : ");
+
 
          int s1 = Integer.parseInt(br.readLine());
          System.out.print("Sumando 2 : ");
